@@ -262,11 +262,11 @@
   <distributionManagement>
   <repository>
       <id>firstrepo</id>
-      <url>http://localhost:8081/repository/firstrepo/</url>
+      <url>http://http://54.88.26.168:8081/repository/firstrepo/</url>
    </repository>
    <snapshotRepository>
       <id>snaprepo</id>
-      <url>http://localhost:8081/repository/snaprepo/</url>
+      <url>http://http://54.88.26.168:8081/repository/snaprepo/</url>
    </snapshotRepository>
    </distributionManagement>
 
